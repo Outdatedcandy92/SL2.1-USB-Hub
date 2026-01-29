@@ -81,3 +81,38 @@ Also spent a few minutes just updating the BOM and getting prices from lcsc and 
 
 ## Time Spent: 3 Hours
 
+# 22/01/26
+
+I worked on designing a case for the USB Hub today. 
+
+Started off my correcting the 3D model placements in kicad and then exported them into Fusion360.
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2F3f113b1d_image.png)
+
+Now the problem I faced here was that each part was an individual component and I couldn't move them all together at once. I tried saving the board and then importing it into a new project but still I could only individually select components. The solution I found was to assign all these components a rigid body set, that basically makes is so that when you move one component the rest follow.
+
+Now designing the case was pretty straightforward as I aimed to be as minimal as possible.
+
+I started off by designing the bottom plate first, it was a very simple very thin plate with countersunk holes for an M2 screw.
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2F1d6b995e_image.png)
+
+For the top part of the case I just designed a rectangle and then projected the USB port's geometry on it and cut it out with some offset.
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2F74017fcc_image.png)
+
+Inside the top part I added these 4 pillars type thing inside which I can later fit some heatset M2 inserts to screw onto and secure the bottom plate and PCB.
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2Fdd5d52af_image.png)
+
+The finished case look something like this-
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2F6ae5d11c_image.png)
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2F06b0f05f_image.png)
+
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2Fc3fa201c_image.png)
+
+## Time Spent: 1.5 Hours
+
+

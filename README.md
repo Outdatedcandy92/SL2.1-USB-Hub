@@ -2,7 +2,7 @@
 
 A compact USB 2.0 hub that uses the SL2.1S IC. The board features 1 USB Type-C upstream port and 4 USB Type-C downstream ports
 
-![image](https://hc-cdn.hel1.your-objectstorage.com/s/v3/2c6b76049a17ffac_H9UN3WQehtSoAAAAAElFTkSuQmCC)
+![](https://cdn.2008000.xyz/cdn/29-01-2026%2Fc3fa201c_image.png)
 
 
 ---
