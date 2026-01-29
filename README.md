@@ -1,6 +1,6 @@
 # SL2.1S USB Hub
 
-A compact USB 2.0 hub that uses the SL2.1S IC. The board features 1 USB Type-C upstream port and 4 USB Type-C downstream ports
+A compact USB 2.0 hub that uses the SL2.1S and MCP2221AxML. The board features 1 USB Type-C upstream port and 8 downstream ports with 4 Type-A and 4 Type-C ports, Two of the Type-A ports act as a UART-to-USB and I2C-to-USB bridge.
 
 ![](https://cdn.2008000.xyz/cdn/29-01-2026%2Fc3fa201c_image.png)
 
