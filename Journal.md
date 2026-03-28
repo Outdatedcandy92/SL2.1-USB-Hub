@@ -1,5 +1,7 @@
 # USB Hub
 
+> Some images in the journal are unavailable due to a CDN issue. 
+
 ## 27/12/25
 
 I was pretty bored and ran out of ideas today so I decided to speedrun a USB Hub; to be honest I have been in need of a usb hub for a LONG time but always procrastinated making one (since onboard btw).
